@@ -1,0 +1,12 @@
+{
+    "policies": [
+        {
+            "policyNumber": "ABC1234567",
+            "product": "Gold"
+        },
+        {
+            "policyNumber": "ABC987654",
+            "product": "Silver"
+        }
+    ]
+}
